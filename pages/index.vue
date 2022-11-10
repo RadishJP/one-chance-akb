@@ -16,7 +16,7 @@
       <div class="twitter-box">
         <a
           class="twitter-timeline"
-          data-height="100%"
+          data-height="600px"
           data-wight="100%"
           data-chrome="transparent nofooter"
           href="https://twitter.com/ONE_CHANCE_AKB?ref_src=twsrc%5Etfw"
