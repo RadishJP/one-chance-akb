@@ -80,8 +80,8 @@ export default {
   methods: {
     async asyncData() {
       await axios
-        .get("https://one-chance-akb.microcms.io/api/v1/maids?limit=99", {
-          headers: { "X-API-KEY": "605cd2f5-930f-4f7c-8dd1-189b74757d8f" }
+        .get("https://onechance-akb.microcms.io/api/v1/maids?limit=99", {
+          headers: { "X-MICROCMS-API-KEY": "ad5458f9424f48bbb48416bbdf6a6f2420a7" }
         })
         .then(res => {
           this.items = res.data.contents;
