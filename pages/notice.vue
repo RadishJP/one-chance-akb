@@ -1,4 +1,5 @@
 <template>
+  <!--ここもういらんのでは-->
   <div class="main-box">
     <h2 class="page-title">時短営業のお知らせ</h2>
     <div class="intro-box">
